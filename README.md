@@ -1,7 +1,5 @@
 # 2-Generate-TV-Scripts
  2- Generate TV Scripts Project is a part of Udacity Deep Learning Nanodegree
-# Generate-TV-Scripts
-TV Script Generation is a part of Udacity Deep Learning Nanodegree
 
 ## What is it?
 This project generates Seinfeld TV scripts using RNNs.  
